@@ -9,7 +9,8 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <h1>Привет как дела Проверка и тест</h1>    
+    <h1>Привет как дела Проверка и тест</h1>
+    <p>Vfndyq</p>    
 </body>
 </html>
 
